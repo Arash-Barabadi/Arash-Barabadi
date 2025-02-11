@@ -1,6 +1,6 @@
 # <div align="center">Hi, I'm Arash Barabadi</div> 👋  
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=<div align="center">Autonomous+engineer</div>;&nbsp;&nbsp;&nbsp;Roboticist)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?color=3448F7&background=FFFFFF00&center=true&lines=Autonomous+Engineer;Robotocist;Tech+Enthusiast)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3448F7&background=FFFFFF00&center=true&width=435&lines=Autonomous+Engineer;Robotocist;Tech+Enthusiast)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Perception of a fast car**  
 - 🌱 I’m learning **AI & Cloud Computing**  
