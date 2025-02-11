@@ -1,4 +1,4 @@
-# Hi, I'm Arash Barabadi  👋  
+# <div align="center">Hi, I'm Arash Barabadi</div> 👋  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=&nbsp;&nbsp;&nbsp;Autonomous+engineer;&nbsp;&nbsp;&nbsp;Roboticist)](https://git.io/typing-svg)
 
