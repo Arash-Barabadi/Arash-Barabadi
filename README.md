@@ -1,6 +1,7 @@
 # <div align="center">Hi, I'm Arash Barabadi 👋 </div>   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3448F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Autonomous+Engineer;Robotocist;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6286F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Autonomous+Engineer;Robotocist;Tech+Enthusiast)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **Perception of a fast car**  
 - 🌱 I’m learning **AI & Cloud Computing**  
 - 📫 Reach me at [LinkedIn](www.linkedin.com/in/arash-barabadi)
