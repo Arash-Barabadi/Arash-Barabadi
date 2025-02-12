@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on **cool projects**  
 - 🌱 I’m learning **Next.js, AI & Cloud Computing**  
-- 📫 Reach me at [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📫 Reach me at [LinkedIn](https://linkedin.com/in/arash-barabadi)  
 - 💡 Check out my projects below 👇 
