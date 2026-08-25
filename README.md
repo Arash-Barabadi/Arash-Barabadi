@@ -12,6 +12,6 @@ Embedded ML / Inference & Deployment Engineer
 
 🤖 Also building ROS 2 based autonomous robots on the side
 
-🔗 Reach me on [LinkedIn](www.linkedin.com/in/arash-barabadi)
+🔗 Reach me on [LinkedIn](https://www.linkedin.com/in/arash-barabadi/)
 
 👇 Projects below
