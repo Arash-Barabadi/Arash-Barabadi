@@ -4,7 +4,7 @@
 
 Embedded ML / Inference & Deployment Engineer
 
-🔧 M.Sc. Electrical Engineering - writing my thesis on quantization for real-time multi-object tracking on NVIDIA Jetson
+🔧 M.Sc. Electrical Engineering - doing research on quantization for real-time multi-object tracking on NVIDIA Jetson
 
 🔍 I work on making neural networks run fast and efficiently on embedded hardware: TensorRT, INT8/FP16 quantization, ROS 2, and edge deployment on Jetson Orin
 
